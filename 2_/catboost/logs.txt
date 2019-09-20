@@ -1,0 +1,60 @@
+0.7681153710771844
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | DepTime + Origin | Origin + Dest | Month + UniqueCarrier
+
+0.7686427479335134
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | DepTime + Origin | DepTime + Dest | Origin + Dest | median_dep_time
+
+0.7774538880915931
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | Origin + Dest | median_dep_time
+
+0.776348841621905
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | Origin + Dest | interval_dep_time
+
+0.7773103798686158
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | Origin + Dest | interval_dep_time | Month + Origin + Dest | interval_dep_time + Origin + Dest | DayOfWeek + UniqueCarrier
+
+0.7733320266339788
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | Origin + Dest | interval_dep_time | Month + interval_dep_time | Month + UniqueCarrier | interval_dep_time + Origin + Dest | DayOfWeek + UniqueCarrier | interval_dep_time + UniqueCarrier
+
+0.7762439347469725
+Month | DayofMonth | DayOfWeek | DepTime | UniqueCarrier | Origin | Dest | dep_delayed_15min | DepTime + UniqueCarrier | Origin + Dest | interval_dep_time | interval_dep_time + Origin + Dest | DayOfWeek + UniqueCarrier | interval_dep_time + UniqueCarrier | DepTime + Month | DepTime + Dest | DepTime + Origin
+
+0.7569912251956773
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | season | Dep_hour | Dep_minute
+
+0.7613173504359838
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | season | Dep_hour | Dep_minute | Origin + Dest
+
+0.7638289534268199
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | season | Dep_hour | Dep_minute | Origin + Dest | day_time
+
+0.7429144493301156
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | season | Dep_minute | Origin + Dest | day_time
+
+0.7601254336217164
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Origin + Dest
+
+0.8135957801437024
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest
+
+0.8091032007443903
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | was_delay | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest
+
+0.8087182605406189
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | was_delay
+
+0.81220304041611
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | Dep_minute + UniqueCarrier
+
+0.8111458494089289
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | Distance + UniqueCarrier
+
+0.8084467923553822
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | Distance + UniqueCarrier
+
+0.8115960670335787
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | Distance + UniqueCarrier | DayofMonth + DayOfWeek
+
+0.81452944529244
+Month | DayofMonth | DayOfWeek | UniqueCarrier | Origin | Dest | Distance | dep_delayed_15min | Dep_hour | Dep_minute | Dep_hour + UniqueCarrier | Origin + Dest | Dep_hour + UniqueCarrier + Origin
+
